@@ -1,0 +1,19 @@
+{
+  "name": "amaplocation",
+  "version": "1.0.0",
+  "description": "Cordova Amap Location Plugin",
+  "cordova": {
+    "id": "com.wanjiang.amaplocation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "location",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "wangmingdong",
+  "license": "ISC"
+}
